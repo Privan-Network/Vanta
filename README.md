@@ -6,7 +6,7 @@ Public release artifacts for Vanta.
 
 Latest: [v1.1.0](https://github.com/Privan-Network/Vanta/releases/tag/v1.1.0)
 
-> [!INFO]
+> [!NOTE]
 > These releases are not signed, so you need to approve to run the app on macOS (System Preferences > Privacy & Security) and Windows (press `Run anyway` on SmartScreen dialog)
 
 ## Releases
